@@ -1,0 +1,18 @@
+
+Denna första *kompensationsuppgift* är av storleken *fyra timmar*:
+
+Smells in Code". De "bad smells" du skall kommentera är:
+   - Duplicated Code
+   - Long Method, extract method
+   - Large Class, extract class/subclass/interface
+   - Long Parameter List, replace parameter with method call
+
+Du skall kommentera med avseende på:
+   - vilka "bad smells" teamet har i sin kod.
+   - är beskrivningen i Fowler rimligt begriplig eller svår att förstå för
+      en typisk kursdeltagare.
+
+Skriv en kort rapport (1-1.5 sida) där du beskrivar resultaten av din kompensationsuppgift. Formulera din rapport så den går att läsa och använda för att framöver undvika att producera "bad smells". Skriv ochså din rapport så den går att arbeta vidare på för att ta redo på vilka
+refaktoriseringar som bör göras (du skall inte göra refaktoriseringarne).
+
+Definition på refactoring, tagen från häftet: "Refactoring (noun): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior."

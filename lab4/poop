@@ -1,0 +1,6 @@
+Type 				Average case 			Worst case
+
+Vector:					 O(n) 					O(n)
+Map: 					O(log(n)) 				O(log(n))
+Unordered_map: 			O(1) 			linear in container size, O(n)
+Hash Map: 				O(1) 			linear in container size, O(n)
